@@ -8,7 +8,19 @@ This repository contains analyses of scripture based on:
 2. Salient imagery.
 
 Initial analyses are generated using ChatGPT.  These analyses will be improved
-by human editors.
+by human editors later. 
+
+# Analyses
+
+The following analyses have been done:
+
+- [emotions](./emotions) - emotional flow and analysis according to Martha Nussbaum's model
+- [imagery](./imagery-scenes) - outlines based on salient imagery
+- [questions](./questions) - questions that can be used to help people relate the emotions and imagery of the Psalms to their own cultural setting
+
+# Influences
+
+The analysis in this repository is influenced by [Psalms that Sing](https://www.psalmsthatsing.org/), [Psalms: Layer by Layer](https://psalms.cdbr.org/w/Welcome), and Josh Frost's [Oral Bible Translation Research and Resources](https://publish.obsidian.md/obt-research-and-resources/).
 
 
 # Model of Emotion

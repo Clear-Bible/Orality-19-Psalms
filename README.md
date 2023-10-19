@@ -1,4 +1,5 @@
 # Orality Resources
+
 Copyright 2024, Biblica, Inc
 
 This work is licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)

@@ -8,7 +8,7 @@ This repository contains a variety of analyses of Scripture and sets of question
 
 - [emotions](./emotions) - emotional flow and analysis according to Martha Nussbaum's model of emotion
 - [imagery](./imagery-scenes) - outlines based on scenes and salient imagery
-- [rhetoric](./rhetoric) - outlines based on rhetorical flow
+- [rhetoric](./rhetorical) - outlines based on rhetorical flow
 - [internalization](./questions/internalization/) - questions aimed at guided internalization by considering issues from the above analyses in their own cultural setting
 - [engagement](./questions/internalization/) - questions aimed at scripture engagement in the community where translation is being done
 

@@ -1,6 +1,6 @@
 # Orality Resource for the Psalms
 
-Copyright 2024, Biblica, Inc
+Copyright 2023, Biblica, Inc
 
 This work is licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).  Biblical quotations from the NIV are licensed under the following license:  https://www.biblica.com/permissions/.
 

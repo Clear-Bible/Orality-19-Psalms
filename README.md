@@ -13,6 +13,7 @@ The following analyses have been done:
 - [rhetoric](./rhetorical) - outlines based on rhetorical flow
 - [internalization](./questions/internalization/) - questions aimed at guided internalization by considering issues from the above analyses in their own cultural setting
 - [engagement](./questions/internalization/) - questions aimed at scripture engagement in the community where translation is being done
+- [sentiment](./sentiment) - first rough shot at classic sentiment analysis.
 
 # Intended Audience
 
